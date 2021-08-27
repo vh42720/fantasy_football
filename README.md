@@ -50,25 +50,34 @@ Functionally, each platform is the same. The main difference is their visuals an
 A group of 10 - 12 players/virtual managers together forms a league. Before the season started,
 the drafting and scoring rules are determined. The player with the most victory wins the league.
 
-Each fantasy football team consists of 5 positions:
-1. Running back
-2. Flex
-3. Quarterback
-4. Wide Receiver
-5. Defense
+Each fantasy football team consists of these positions:
+- 1 Quarterback (QB)
+- 2 Running back (RB)
+- 2 Wide Receiver (RC)
+- 1 Tight End (TE)
+- 1 Flex (FL)
+- 1 Kicker (K)
+- 1 Defense (D)
+- 5 bench positions
+
+Each week, the manager must choose their player roster. They cannot change switch out any player
+on that roster for that week. If a player is on the bench from their roster, even if they score
+in real life, the point is not counted toward the manager's team. Thus, one must choose carefully
+as not to bench a wrong player.
 
 ##### 4.2. Score & Rules
 
 The score is counted based on the player actual performances on the field. However,
-there are 3 ways that each league can decide to translate player real performance int
-virtual points
-1. Classic
-2. Half
-3. full
+there are 3 ways that each league can decide to translate a player real performance
+virtual points. The scoring system is detailed [here from ESPN's article](https://support.espn.com/hc/en-us/articles/360003914032-Scoring-Formats)
+1. Standard - which mirrors real life scoring system
+2. Half/full - which includes the successful run distance, throw and receives into the score
 
 ##### 4.2. Drafting Process
 Drafting process and scoring rules are agreed upon the participants before the season starts
 across all platforms.
+
+[How to draft fantasy football team by NFL](https://www.youtube.com/watch?v=VOLpmcK7HD0)
 
 - On drafting: While there are many ways to decides how to make the draft fair, the most common
 one is snake-line.
@@ -79,3 +88,5 @@ one is snake-line.
 [Youtuber: Ninh Ly](https://www.youtube.com/channel/UCTiEIvYaXBTcu2b9viRB7lg)
 
 [Youtuber: NFL](https://www.youtube.com/channel/UCDVYQ4Zhbm3S2dlz7P1GBDg)
+
+[Ben Dominguez](https://www.fantasyfootballdatapros.com/)
